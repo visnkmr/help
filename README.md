@@ -7,7 +7,7 @@
   
 Please mention the following details(if relavant):
 
-* Which device are using the app on??
+* Which device are you using the app on??
 * Fire/Android 0S version 
 </details>
 <details>
@@ -19,7 +19,7 @@ Please mention the following details(if relavant):
   
 Please mention the following details(if relavant):
 
-* Which device are using the app on??
+* Which device are you using the app on??
 * Fire/Android 0S version 
 </details>
 
