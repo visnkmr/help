@@ -1,4 +1,38 @@
+|[Background Apps and Process List](https://github.com/visnkmr/backgroundappslist/issues)|[Wireless File Manager](https://github.com/visnkmr/wfm/issues)|[Time Netspeed Monitor](https://github.com/visnkmr/timenetspeed/issues)|
+|---|---|---|
+
+Please mention the following details(if relavant):
 <details>
+<summary>Fire/Android 0S version </summary>
+
+
+* Android 10 
+* Android 9 \(Pie\) \(Fire OS 7\)
+* Android 8 \(Oreo\)
+* Android 7 \(Nougat\) \(Fire OS 6\)
+* Android 6 \(Marshmallow\)
+* Android 5 \(Lollipop\) \(Fire OS 5\)
+* Android 4 and below
+</details>
+<details>
+<summary>Device list</summary>
+
+
+- Amazon Fire TV
+- Android TV
+- Amazon Fire Tablet
+- Android Mobile Phone
+- Android Tablet
+- Chromecast with Google TV
+</details> 
+<details>
+<summary>Where you downloaded the app from?</summary>
+
+
+- Google Play
+- Amazon Appstore
+</details> 
+<!-- <details>
 <summary>Google Play</summary>
 <br>
 
@@ -21,12 +55,7 @@ Please mention the following details(if relavant):
 
 * Which device are you using the app on??
 * Fire/Android 0S version 
-</details>
-
-[Latest Announcements](https://t.me/s/vishnunkmr)  
-<!-- *No telegram account/login is required to browse telegram channel.*   -->
-[All Known crashes and bugs](https://telegra.ph/Known-Crashes-03-08)  
-[Already resolved Queries with Answers](https://telegra.ph/Queries-Resolved-02-05)  
+</details> -->
   
 ## Troubleshoot
 [Close background running apps on FireTV](http://appchoose.blogspot.com/2017/10/close-background-process-firetv.html)  
@@ -35,7 +64,12 @@ Please mention the following details(if relavant):
 [How to send music/photos/videos/apk to amazon firetv stick? ](https://appchoose.blogspot.com/2018/12/how-to-send-recieve-transfer-files-to-fire-tv.html)  
 [Troubleshooting apps on Amazon Fire TVs & Sticks ](https://appchoose.blogspot.com/2019/05/troubleshooting-apps-on-amazon-fire-tv.html)
 
-## Help
+## More info
+[Latest Announcements](https://t.me/s/vishnunkmr)  
+<!-- *No telegram account/login is required to browse telegram channel.*   -->
+[All Known crashes and bugs](https://telegra.ph/Known-Crashes-03-08)  
+[Already resolved Queries with Answers](https://telegra.ph/Queries-Resolved-02-05)  
+<!-- ## Help
 <details>
 <summary>Fire/Android 0S version </summary>
 <br>
@@ -62,4 +96,4 @@ Please mention the following details(if relavant):
 - Android Tablet
 - Chromecast with Google TV
 <br>
-</details>
+</details> -->
