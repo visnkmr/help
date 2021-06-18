@@ -4,7 +4,7 @@
 
 |[Background Apps and Process List](https://github.com/visnkmr/backgroundappslist/issues)|[Wireless File Manager](https://github.com/visnkmr/wfm/issues)|[Time Netspeed Monitor](https://github.com/visnkmr/timenetspeed/issues)|
 |---|---|---|
-<br>
+  
 Please mention the following details(if relavant):
 
 * Which device are using the app on??
@@ -13,8 +13,14 @@ Please mention the following details(if relavant):
 <details>
 <summary>Amazon Appstore</summary>
 <br>
-This is how you dropdown.
-<br>
+
+|[Background Apps and Process List](https://github.com/visnkmr/backgroundappslist/issues)|[Wireless File Manager](https://github.com/visnkmr/wfm/issues)|[Time Netspeed Monitor](https://github.com/visnkmr/timenetspeed/issues)|
+|---|---|---|
+  
+Please mention the following details(if relavant):
+
+* Which device are using the app on??
+* Fire/Android 0S version 
 </details>
 
 [Latest Announcements](https://t.me/s/vishnunkmr)  
