@@ -1,7 +1,9 @@
 <details>
 <summary>Google Play</summary>
 <br>
-This is how you dropdown.
+
+|[Background Apps and Process List](https://github.com/visnkmr/backgroundappslist/issues)|[Wireless File Manager](https://github.com/visnkmr/wfm/issues)|[Time Netspeed Monitor](https://github.com/visnkmr/timenetspeed/issues)|
+|---|---|---|
 <br>
 Please mention the following details(if relavant):
 
