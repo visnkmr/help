@@ -69,8 +69,11 @@ Please mention the following details(if relavant):
 ## More info
 [Latest Announcements](https://t.me/s/vishnunkmr)  
 <!-- *No telegram account/login is required to browse telegram channel.*   -->
-[All Known crashes and bugs](https://telegra.ph/Known-Crashes-03-08)  
+🐞[All Known crashes and bugs here](https://telegra.ph/Known-Crashes-03-08)  
 [Already resolved Queries with Answers](https://telegra.ph/Queries-Resolved-02-05)  
+
+[Devices we test the app on here](https://telegra.ph/Devices-we-test-the-apps-on-05-16)  
+⚠️[Permissions used on a per app basis here](https://telegra.ph/Permissions-06-18)
 <!-- ## Help
 <details>
 <summary>Fire/Android 0S version </summary>
