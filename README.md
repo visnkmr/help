@@ -1,4 +1,4 @@
-|[Background Apps and Process List](https://github.com/visnkmr/backgroundappslist/issues)|[Wireless File Manager](https://github.com/visnkmr/wfm/issues)|[Time Netspeed Monitor](https://github.com/visnkmr/timenetspeed/issues)|[Other apps](https://github.com/visnkmr/help/issues/new/choose)|
+|[Background Apps and Process List](https://github.com/visnkmr/backgroundappslist/issues)|[Wireless File Manager](https://github.com/visnkmr/wfm/issues)|[Time Netspeed Monitor](https://github.com/visnkmr/timenetspeed/issues)|[Other apps](https://github.com/visnkmr/help/issues/)|
 |---|---|---|---|
 
 **You can use issue report writer available [here](https://visnkmr.github.io/issuereportwriter/) that autopopulates the below fields as dropdown.**
